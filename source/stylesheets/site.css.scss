@@ -1,0 +1,40 @@
+@charset "utf-8";
+@import "normalize";
+@import "slick";
+@import "slick-theme";
+html{
+  background-color:#ebebeb;
+  height: auto;
+}
+body{
+  margin: 15px;
+}
+div{
+  border:0px solid red;
+}
+.logo-text{
+  text-decoration: none;
+  font-family: "Montserrat", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 37px;
+  line-height: 58px;
+  letter-spacing: -1.5px;
+  font-weight: 800;
+  font-style: normal;
+  text-transform: uppercase;
+  color: #3a3a3a;
+}
+.headtxt{
+  font-family:Montserrat;
+  font-weight:normal;
+  color:#676565;
+  margin-bottom:9px;
+  text-align: center;
+  padding-top: 30px;
+}
+.title{
+    text-align: center;
+    font-family:Montserrat;
+    font-weight:300;
+    color:#c0baba;
+    font-size:20px;
+}
